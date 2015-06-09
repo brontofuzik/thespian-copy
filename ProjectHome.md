@@ -1,0 +1,1 @@
+Metamodel for modelling organizations in multi-agent systems.
